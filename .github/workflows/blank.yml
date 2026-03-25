@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pradyumna Kumar | Growth Marketing Resume</title>
+  <style>
+    body { margin:0; font-family: 'Segoe UI', sans-serif; background:#0d1117; color:#e6edf3; }
+    .container { max-width: 980px; margin:auto; padding:40px 20px; }
+    h1 { font-size:38px; margin-bottom:6px; }
+    h2 { border-bottom:1px solid #30363d; padding-bottom:6px; margin-top:30px; }
+    p, li { line-height:1.6; color:#c9d1d9; }
+    .highlight { color:#facc15; font-weight:600; }
+    .row { display:flex; flex-wrap:wrap; gap:20px; }
+    .col { flex:1 1 300px; }
+    .btn { display:inline-block; margin-top:16px; padding:10px 18px; background:#facc15; color:#000; text-decoration:none; border-radius:8px; font-weight:700; }
+    a { color:#58a6ff; text-decoration:none; }
+    .card { background:#161b22; padding:18px; border-radius:14px; border:1px solid #30363d; }
+    ul { padding-left:18px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <h1>Pradyumna Kumar</h1>
+    <p class="highlight">MBA (Marketing & Analytics) | Growth Marketing & Digital Strategy</p>
+
+    <p>
+      📧 pradyumna.kumar1001@gmail.com <br>
+      📞 +91-7759954686 <br>
+      🔗 <a href="https://www.linkedin.com/in/pradyumna-kumar-2b1141168" target="_blank">LinkedIn Profile</a>
+    </p>
+
+    <a class="btn" href="Pradyumna_Kumar_Resume.pdf" target="_blank">Download Resume</a>
+
+    <div class="section">
+      <h2>About Me</h2>
+      <p>
+        MBA Marketing candidate specializing in Branding, Growth Marketing, and Digital Strategy with hands-on experience in campaign execution, consumer insights, and performance marketing. Skilled in building brand visibility, optimizing digital funnels, and leveraging analytics to drive customer acquisition and engagement.
+      </p>
+    </div>
+
+    <div class="row">
+      <div class="col card">
+        <h2>Experience</h2>
+        <ul>
+          <li><b>Growth Marketing Intern – Qualy5 Business Solutions (Jan 2026 – Present)</b><br>
+            Designed LinkedIn campaigns targeting SMEs, optimized funnel (hook–value–CTA), improved engagement & inbound leads.
+          </li>
+          <li><b>Marketing & Content Intern – Collegedunia</b><br>
+            Created SEO-driven MBA content, improved rankings via keyword research, structured data-led pages for admissions & placements.
+          </li>
+          <li><b>Business Development Associate – BYJU'S</b><br>
+            Delivered 100+ sales consultations, generated ₹6L+ revenue, improved conversions via CRM & objection handling.
+          </li>
+        </ul>
+      </div>
+
+      <div class="col card">
+        <h2>Skills</h2>
+        <ul>
+          <li>Digital Marketing Strategy</li>
+          <li>Growth Marketing & Acquisition</li>
+          <li>SEO & Content Marketing</li>
+          <li>Performance Marketing</li>
+          <li>Marketing Analytics & Consumer Insights</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col card">
+        <h2>Projects</h2>
+        <ul>
+          <li><b>Instagram Meme Page (Growth Marketing)</b><br>
+            Grew to 200+ followers organically, viral reel with 6K+ views, optimized engagement using analytics.
+          </li>
+          <li><b>Shopify D2C Store (SEO Project)</b><br>
+            Built eco-friendly store, optimized product pages & conversions, improved UX and traffic performance.
+          </li>
+        </ul>
+      </div>
+
+      <div class="col card">
+        <h2>Education</h2>
+        <ul>
+          <li>MBA – Jagdish Sheth School of Management (2024–2026) | CGPA: 7.83</li>
+          <li>BBA – Symbiosis Noida (2018–2021) | CGPA: 6.56</li>
+          <li>12th – Takshashila Vidyapidth | 71.6%</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="section card">
+      <h2>Certifications</h2>
+      <ul>
+        <li>Google Ads & Analytics</li>
+        <li>Brand Management – Great Learning</li>
+        <li>International Marketing – Coursera</li>
+        <li>ChatGPT for Digital Marketing</li>
+      </ul>
+    </div>
+
+  </div>
+</body>
+</html>
+
